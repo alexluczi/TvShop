@@ -1,6 +1,6 @@
 <h1>TvShop Felhasználói Dokumentáció</h1>
 
-Dluhi Dániel     Rajna Torda Imre Luczi Alex
+Dluhi Dániel, Rajna Torda Imre, Luczi Alex
 
 *https://github.com/alexluczi/TvShop*
 

@@ -4,6 +4,24 @@ Dluhi Dániel     Rajna Torda Imre Luczi Alex
 
 *https://github.com/alexluczi/TvShop*
 
+<h1>Tartalomjegyzék</h1>
+
+<a href="https://github.com/alexluczi/TvShop#tartalomjegyzék">**Tartalomjegyzék**</a>
+
+<a href="https://github.com/alexluczi/TvShop#felhasználói-dokumentáció">**Felhasználói dokumentáció**</a>
+
+<a style="margin-left: 7%" href="https://github.com/alexluczi/TvShop#rendszerkövetelmény">**Rendszerkövetelmény**</a>
+
+<a style="margin-left: 7%" href="https://github.com/alexluczi/TvShop#program-használata">**Program használata**</a>
+
+<a style="margin-left: 14%" href="https://github.com/alexluczi/TvShop#rendszer-indítása">Rendszer indítása</a>
+
+<a style="margin-left: 14%" href="https://github.com/alexluczi/TvShop#ügynökök-létszámának-kezelése">Ügynökök létszámának kezelése</a>
+
+<a style="margin-left: 14%" href="https://github.com/alexluczi/TvShop#ügynökök-nevének-kezelése">Ügynökök nevének kezelése</a>
+
+<a style="margin-left: 14%" href="https://github.com/alexluczi/TvShop#ügynökök-minősítése">Ügynökök minősítése</a>
+
 <h1>Felhasználói dokumentáció</h1>
 
 <h2>Rendszerkövetelmény</h2>
@@ -118,4 +136,4 @@ Van lehetőségünk megtekinteni az összes ügynököt és azok minősítését
 
 Erről a felületről a menübe való visszalépéshez csak egy Enter-t kell nyomnia (ahogy azt a képernyő alján is jelzi a program).
 
-*A kód megtekinthető a https://github.com/alexluczi/TvShop oldalon.*
+<p align="center"><i>A kód megtekinthető a <a href="https://github.com/alexluczi/TvShop">https://github.com/alexluczi/TvShop</a> oldalon.</i></p>

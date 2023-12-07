@@ -21,19 +21,27 @@ Perifériák:
 
 <h2>Program használata</h2>
 
-**Rendszer indítása**
+<h3>Rendszer indítása</h3>
 
 A program letöltése után az alábbi könyvtárban található a fájl, ami elindítása utána egyből a rendszer beállítási folyamatának kezdetén találjuk magunkat. 
 
 /TvShop/TvShop/bin/Debug/net7.0
 
-*A program indítása ![](Aspose.Words.0095dc24-6592-4159-9410-2e36272c0c5f.001.png)*
+<p align="center">
+  <img src="Documentation/Images/Aspose.Words.0095dc24-6592-4159-9410-2e36272c0c5f.001.png" />
+  <br>
+  A program indítása
+</p>
 
-**Ügynökök létszámának kezelése**
+<h3>Ügynökök létszámának kezelése</h3>
 
 Miután a rendszer elindult el is kezdhetjük megadni az ott dolozó ügynökök számát.
 
-*Ügynökök létszámának megadása![](Aspose.Words.0095dc24-6592-4159-9410-2e36272c0c5f.002.png)*
+<p align="center">
+  <img src="Documentation/Images/Aspose.Words.0095dc24-6592-4159-9410-2e36272c0c5f.002.png" />
+  <br>
+  Ügynökök létszámának megadása
+</p>
 
 A rendszerünk maximum 999 ügynök adatait tudja eltárolni, ezért már az ügynökön bekérdezésénél is limitáltuk a megadható mennyiséget.
 
@@ -48,11 +56,15 @@ Ennél a bekérdezésnél felmerülő hibaüzeneteket és azok jelentését az a
 
 Ha sikeres volt a létszám megadása, akkor következő lépésben az átláthatóság érdekében kötelezően meg kell adni ezen ügynökök neveit. Így a rendszerben név szerint tekintheti majd meg az eladók  minősítését.
 
-**Ügynökök nevének kezelése**
+<h3>Ügynökök nevének kezelése</h3>
 
 Az alábbi képernyőkepen tekinthető meg az ügynökök nevének kezelése.
 
-*Ügynökök nevének megadása![](Aspose.Words.0095dc24-6592-4159-9410-2e36272c0c5f.003.png)*
+<p align="center">
+  <img src="Documentation/Images/Aspose.Words.0095dc24-6592-4159-9410-2e36272c0c5f.003.png" />
+  <br>
+  Ügynökök nevének megadása
+</p>
 
 Ennél a bekérdezésnél felmerülő hibaüzeneteket és azok jelentését az alábbi táblázatban találja meg.
 
@@ -65,11 +77,15 @@ Ennél a bekérdezésnél felmerülő hibaüzeneteket és azok jelentését az a
 
 Ezzel a lépéssel az ügynökök bevitele a rendszerbe megtörtént. A következő lépésben a minősétő rendszer működését fogjuk ismer- tetni. Kérjük ne lépjen ki a programból, mert újra kell kezdenie a folyamatot.
 
-**Ügynökök minősítése**
+<h3>Ügynökök minősítése</h3>
 
 Az alábbi képernyőkepen az ügynökök minősítésének kiiratási menüje látható.
 
-*Kiiratási menü![](Aspose.Words.0095dc24-6592-4159-9410-2e36272c0c5f.004.png)*
+<p align="center">
+  <img src="Documentation/Images/Aspose.Words.0095dc24-6592-4159-9410-2e36272c0c5f.004.png" />
+  <br>
+  Kiiratási menü
+</p>
 
 Ennél a bekérdezésnél felmerülő hibaüzeneteket és azok jelentését az alábbi táblázatban találja meg.
 
@@ -82,7 +98,11 @@ Ennél a bekérdezésnél felmerülő hibaüzeneteket és azok jelentését az a
 
 Itt egyszeűen egyetlen szám és az Enter billentyű megadásával már láthatjuk is az adott minősétés szerint rendezett ügynököket.
 
-*Alap minősétésű ügynökök (PÉLDA)![](Aspose.Words.0095dc24-6592-4159-9410-2e36272c0c5f.005.png)*
+<p align="center">
+  <img src="Documentation/Images/Aspose.Words.0095dc24-6592-4159-9410-2e36272c0c5f.005.png" />
+  <br>
+  Alap minősétésű ügynökök (PÉLDA)
+</p>
 
 A rendszer ezen részén felül láthatjuk azt, hogy melyik minősétési kategóriában vagyunk, alatta pedig egyből a nevek és a hozzátartozó betelefonálószámot tekinthetjük meg.
 
@@ -90,7 +110,11 @@ Erről a felületről a menübe való visszalépéshez csak egy Enter-t kell nyo
 
 Van lehetőségünk megtekinteni az összes ügynököt és azok minősítését. Az alábbi képernyőkepen az ‘összes‘ menüpont alatt található felület látható.
 
-*Összes ügynök (PÉLDA)![](Aspose.Words.0095dc24-6592-4159-9410-2e36272c0c5f.006.png)*
+<p align="center">
+  <img src="Documentation/Images/Aspose.Words.0095dc24-6592-4159-9410-2e36272c0c5f.006.png" />
+  <br>
+  Összes ügynök (PÉLDA)
+</p>
 
 Erről a felületről a menübe való visszalépéshez csak egy Enter-t kell nyomnia (ahogy azt a képernyő alján is jelzi a program).
 

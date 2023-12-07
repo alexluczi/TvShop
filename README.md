@@ -10,17 +10,17 @@ Dluhi Dániel     Rajna Torda Imre Luczi Alex
 
 <a href="https://github.com/alexluczi/TvShop#felhasználói-dokumentáció">**Felhasználói dokumentáció**</a>
 
-<a style="margin-left: 7%" href="https://github.com/alexluczi/TvShop#rendszerkövetelmény">**Rendszerkövetelmény**</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/alexluczi/TvShop#rendszerkövetelmény">**Rendszerkövetelmény**</a>
 
-<a style="margin-left: 7%" href="https://github.com/alexluczi/TvShop#program-használata">**Program használata**</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/alexluczi/TvShop#program-használata">**Program használata**</a>
 
-<a style="margin-left: 14%" href="https://github.com/alexluczi/TvShop#rendszer-indítása">Rendszer indítása</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/alexluczi/TvShop#rendszer-indítása">Rendszer indítása</a>
 
-<a style="margin-left: 14%" href="https://github.com/alexluczi/TvShop#ügynökök-létszámának-kezelése">Ügynökök létszámának kezelése</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/alexluczi/TvShop#ügynökök-létszámának-kezelése">Ügynökök létszámának kezelése</a>
 
-<a style="margin-left: 14%" href="https://github.com/alexluczi/TvShop#ügynökök-nevének-kezelése">Ügynökök nevének kezelése</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/alexluczi/TvShop#ügynökök-nevének-kezelése">Ügynökök nevének kezelése</a>
 
-<a style="margin-left: 14%" href="https://github.com/alexluczi/TvShop#ügynökök-minősítése">Ügynökök minősítése</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/alexluczi/TvShop#ügynökök-minősítése">Ügynökök minősítése</a>
 
 <h1>Felhasználói dokumentáció</h1>
 

@@ -90,7 +90,7 @@ Erről a felületről a menübe való visszalépéshez csak egy Enter-t kell nyo
 
 Van lehetőségünk megtekinteni az összes ügynököt és azok minősítését. Az alábbi képernyőkepen az ‘összes‘ menüpont alatt található felület látható.
 
-![](Aspose.Words.0095dc24-6592-4159-9410-2e36272c0c5f.006.png)
+*Összes ügynök (PÉLDA)![](Aspose.Words.0095dc24-6592-4159-9410-2e36272c0c5f.006.png)*
 
 Erről a felületről a menübe való visszalépéshez csak egy Enter-t kell nyomnia (ahogy azt a képernyő alján is jelzi a program).
 

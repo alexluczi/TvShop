@@ -48,7 +48,7 @@ A program letöltése után az alábbi könyvtárban található a fájl, ami el
 <p align="center">
   <img src="Documentation/Images/Aspose.Words.0095dc24-6592-4159-9410-2e36272c0c5f.001.png" />
   <br>
-  A program indítása
+  <i>A program indítása</i>
 </p>
 
 <h3>Ügynökök létszámának kezelése</h3>
@@ -58,7 +58,7 @@ Miután a rendszer elindult el is kezdhetjük megadni az ott dolozó ügynökök
 <p align="center">
   <img src="Documentation/Images/Aspose.Words.0095dc24-6592-4159-9410-2e36272c0c5f.002.png" />
   <br>
-  Ügynökök létszámának megadása
+  <i>Ügynökök létszámának megadása</i>
 </p>
 
 A rendszerünk maximum 999 ügynök adatait tudja eltárolni, ezért már az ügynökön bekérdezésénél is limitáltuk a megadható mennyiséget.
@@ -81,7 +81,7 @@ Az alábbi képernyőkepen tekinthető meg az ügynökök nevének kezelése.
 <p align="center">
   <img src="Documentation/Images/Aspose.Words.0095dc24-6592-4159-9410-2e36272c0c5f.003.png" />
   <br>
-  Ügynökök nevének megadása
+  <i>Ügynökök nevének megadása</i>
 </p>
 
 Ennél a bekérdezésnél felmerülő hibaüzeneteket és azok jelentését az alábbi táblázatban találja meg.
@@ -102,7 +102,7 @@ Az alábbi képernyőkepen az ügynökök minősítésének kiiratási menüje l
 <p align="center">
   <img src="Documentation/Images/Aspose.Words.0095dc24-6592-4159-9410-2e36272c0c5f.004.png" />
   <br>
-  Kiiratási menü
+  <i>Kiiratási menü</i>
 </p>
 
 Ennél a bekérdezésnél felmerülő hibaüzeneteket és azok jelentését az alábbi táblázatban találja meg.
@@ -119,7 +119,7 @@ Itt egyszeűen egyetlen szám és az Enter billentyű megadásával már láthat
 <p align="center">
   <img src="Documentation/Images/Aspose.Words.0095dc24-6592-4159-9410-2e36272c0c5f.005.png" />
   <br>
-  Alap minősétésű ügynökök (PÉLDA)
+  <i>Alap minősétésű ügynökök (PÉLDA)</i>
 </p>
 
 A rendszer ezen részén felül láthatjuk azt, hogy melyik minősétési kategóriában vagyunk, alatta pedig egyből a nevek és a hozzátartozó betelefonálószámot tekinthetjük meg.
@@ -131,7 +131,7 @@ Van lehetőségünk megtekinteni az összes ügynököt és azok minősítését
 <p align="center">
   <img src="Documentation/Images/Aspose.Words.0095dc24-6592-4159-9410-2e36272c0c5f.006.png" />
   <br>
-  Összes ügynök (PÉLDA)
+  <i>Összes ügynök (PÉLDA)</i>
 </p>
 
 Erről a felületről a menübe való visszalépéshez csak egy Enter-t kell nyomnia (ahogy azt a képernyő alján is jelzi a program).

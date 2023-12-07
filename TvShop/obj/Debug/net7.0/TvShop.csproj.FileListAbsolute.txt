@@ -1,0 +1,15 @@
+/Users/luczialex/Projects/TvShop/TvShop/bin/Debug/net7.0/TvShop
+/Users/luczialex/Projects/TvShop/TvShop/bin/Debug/net7.0/TvShop.deps.json
+/Users/luczialex/Projects/TvShop/TvShop/bin/Debug/net7.0/TvShop.runtimeconfig.json
+/Users/luczialex/Projects/TvShop/TvShop/bin/Debug/net7.0/TvShop.dll
+/Users/luczialex/Projects/TvShop/TvShop/bin/Debug/net7.0/TvShop.pdb
+/Users/luczialex/Projects/TvShop/TvShop/obj/Debug/net7.0/TvShop.csproj.AssemblyReference.cache
+/Users/luczialex/Projects/TvShop/TvShop/obj/Debug/net7.0/TvShop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luczialex/Projects/TvShop/TvShop/obj/Debug/net7.0/TvShop.AssemblyInfoInputs.cache
+/Users/luczialex/Projects/TvShop/TvShop/obj/Debug/net7.0/TvShop.AssemblyInfo.cs
+/Users/luczialex/Projects/TvShop/TvShop/obj/Debug/net7.0/TvShop.csproj.CoreCompileInputs.cache
+/Users/luczialex/Projects/TvShop/TvShop/obj/Debug/net7.0/TvShop.dll
+/Users/luczialex/Projects/TvShop/TvShop/obj/Debug/net7.0/refint/TvShop.dll
+/Users/luczialex/Projects/TvShop/TvShop/obj/Debug/net7.0/TvShop.pdb
+/Users/luczialex/Projects/TvShop/TvShop/obj/Debug/net7.0/TvShop.genruntimeconfig.cache
+/Users/luczialex/Projects/TvShop/TvShop/obj/Debug/net7.0/ref/TvShop.dll
